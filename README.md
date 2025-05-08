@@ -23,3 +23,6 @@ The process of writing and reading data in synchronous RAM follows a structured 
 
 To implement a synchronous RAM module, hardware designers use Verilog, a Hardware Description Language (HDL) that defines how digital circuits should function. In a simple Verilog model, designers define parameters like data width and address width, create a memory array to store values, and set up a clock-driven process to manage read and write operations efficiently.
 
+<img width="549" alt="Image" src="https://github.com/user-attachments/assets/c3ee3440-c630-4efc-a7ab-fa5b6017097d" />
+<img width="949" alt="Image" src="https://github.com/user-attachments/assets/9fb1cc2e-3eaf-4130-8bef-2eab4092c07e" />
+
